@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mitaoguancha.github.io/sitemap.xml

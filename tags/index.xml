@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on 觅桃观察</title>
+    <link>https://mitaoguancha.github.io/tags/</link>
+    <description>Recent content in Tags on 觅桃观察</description>
+    <image>
+      <url>https://mitaoguancha.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://mitaoguancha.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 26 Apr 2022 11:20:03 +0800</lastBuildDate><atom:link href="https://mitaoguancha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>亲密关系</title>
+      <link>https://mitaoguancha.github.io/tags/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB/</link>
+      <pubDate>Tue, 26 Apr 2022 11:20:03 +0800</pubDate>
+      
+      <guid>https://mitaoguancha.github.io/tags/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>相亲</title>
+      <link>https://mitaoguancha.github.io/tags/%E7%9B%B8%E4%BA%B2/</link>
+      <pubDate>Tue, 26 Apr 2022 11:20:03 +0800</pubDate>
+      
+      <guid>https://mitaoguancha.github.io/tags/%E7%9B%B8%E4%BA%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>红娘</title>
+      <link>https://mitaoguancha.github.io/tags/%E7%BA%A2%E5%A8%98/</link>
+      <pubDate>Tue, 26 Apr 2022 11:20:03 +0800</pubDate>
+      
+      <guid>https://mitaoguancha.github.io/tags/%E7%BA%A2%E5%A8%98/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
