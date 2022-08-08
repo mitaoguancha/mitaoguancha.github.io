@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>自我认知 on 觅桃观察</title>
-    <link>https://mitaoguancha.github.io/tags/%E8%87%AA%E6%88%91%E8%AE%A4%E7%9F%A5/</link>
-    <description>Recent content in 自我认知 on 觅桃观察</description>
+    <title>觅友提问 on 觅桃观察</title>
+    <link>https://mitaoguancha.github.io/categories/%E8%A7%85%E5%8F%8B%E6%8F%90%E9%97%AE/</link>
+    <description>Recent content in 觅友提问 on 觅桃观察</description>
     <image>
       <url>https://mitaoguancha.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://mitaoguancha.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 08 Aug 2022 08:39:15 +0800</lastBuildDate><atom:link href="https://mitaoguancha.github.io/tags/%E8%87%AA%E6%88%91%E8%AE%A4%E7%9F%A5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Aug 2022 08:39:15 +0800</lastBuildDate><atom:link href="https://mitaoguancha.github.io/categories/%E8%A7%85%E5%8F%8B%E6%8F%90%E9%97%AE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>婚姻是人生的必选项吗？</title>
       <link>https://mitaoguancha.github.io/a/hunyinbixuma/</link>
@@ -18,15 +18,6 @@
       
       <guid>https://mitaoguancha.github.io/a/hunyinbixuma/</guid>
       <description>婚姻是一座围城,城外的人想进去,城里的人想出来</description>
-    </item>
-    
-    <item>
-      <title>优质异性定义的男女认知差异</title>
-      <link>https://mitaoguancha.github.io/a/youzhirenzhi/</link>
-      <pubDate>Wed, 04 May 2022 20:10:21 +0800</pubDate>
-      
-      <guid>https://mitaoguancha.github.io/a/youzhirenzhi/</guid>
-      <description>双方的互选本身是个博弈​的过程。劝诸君知己知彼​，要多站在对方的角度思考问题，避免因为男女认知的差异​错过良缘。</description>
     </item>
     
   </channel>
